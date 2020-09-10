@@ -11,7 +11,7 @@
 # limitations under the License.
 #
 
-# Version 3.4.0-2_ianmacd.
+# Version 3.4.0-3_ianmacd.
 
 DEVICE_PATH := device/samsung/d2s
 
@@ -82,4 +82,4 @@ BOARD_SUPPRESS_SECURE_ERASE := true
 BOARD_INCLUDE_RECOVERY_DTBO := true
 BOARD_PREBUILT_DTBOIMAGE := $(DEVICE_PATH)/prebuilt/recovery_dtbo
 PLATFORM_VERSION := 10
-PLATFORM_SECURITY_PATCH := 2020-08-01
+PLATFORM_SECURITY_PATCH := 2020-09-01
